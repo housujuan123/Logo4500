@@ -1,7 +1,7 @@
 # <p align='center'>Logo4500: Large-scale Dataset and a Benchmark for Advancing Logo Detection </p>
 
 ## Logo4500-Dataset
-![example](Logo-4500/example.png)
+![example](example.png)
 
 ## Logo4500 Dataset Description
 In this work, we introduced logo4500, the largest fully annotated logo-detection dataset, with 4,500 logo categories, more than 420,000 manually annotated logo objects, and 293,298 images. Logo4500 creates a more challenging benchmark for Logo detection because it has higher overall coverage and wider diversity in terms of flag categories and annotation objects than existing datasets. The statistical comparison of the 10 superclasses in Logo4500 is as follows:
