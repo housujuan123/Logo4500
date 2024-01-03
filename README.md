@@ -1,9 +1,9 @@
 # <p align='center'>Logo4500: Large-scale Dataset and a Benchmark for Logo Detection </p>
 
-## Logo4500-Dataset
+## Logo4500
 ![example](example.png)
 
-## Logo4500 Dataset Description
+## The Description of Logo4500
 In this work, we introduced logo4500, the largest fully annotated logo-detection dataset, with 4,500 logo categories, more than 420,000 manually annotated logo objects, and 293,298 images. Logo4500 creates a more challenging benchmark for Logo detection because it has higher overall coverage and wider diversity in terms of flag categories and annotation objects than existing datasets. The statistical comparison of the 10 superclasses in Logo4500 is as follows:
 
 | Category | Number | Image | Object | Pencentage | Content |
@@ -19,11 +19,11 @@ In this work, we introduced logo4500, the largest fully annotated logo-detection
 | Others | 147 | 6,033 | 6,598 | 3.29% | Not included in Nice classification(e.g., Music,Anime) |
 | Medicine&Hygiene& | 115 | 12,901 | 22,310 | 2.59% | Medicine, Nutrient, Tissue, Disinfectant |
 
-## Category Hierarchy for Logo4500
+## The Category Hierarchy of Logo4500
 The figure shows the category hierarchy of Logo4500, which belongs to 37 different superclasses in the Nice classification system.
 ![example](topu.png)
 
-## Logo4500 Dataset Detailed Statistics
+## The Detailed Statistics of Logo4500
 The figure showns the detailed statistics of Logo4500 about Image and object distribution in per category, and the number of objects in per image and object size in per image.
 ![example](statistic.png)
 
@@ -38,7 +38,7 @@ The visual comparison of WAANet with other models is shown in the figure.
 ![example](Visualization_Comparison.png)
 
 ## Download Dataset
-This dataset can be obtained by sending a request email to us. Specifically, the researchers interested in it should download and fill up this [Agreement Form](https://github.com/housujuan123/Logo4500/blob/main/Agreement%20and%20Disclaimer.pdf) and send it back to us (327484632@qq.com; Email title: Logo4500 dataset request). We will then send you the download instructions.
+This dataset can be obtained by sending a request email to us. Specifically, the researchers interested in it should download and fill up this [Agreement Form](https://github.com/housujuan123/Logo4500/blob/main/Agreement%20and%20Disclaimer.pdf) and send it back to us (sujuanhou@sdnu.edu.cn; Email title: Logo4500 dataset request). We will then send you the download instructions.
 
 ## Code & Trained Models
 You can download codes and trained models from [here](https://github.com/housujuan123/WAANet).
