@@ -21,7 +21,7 @@ In this work, we introduced logo4500, the largest fully annotated logo-detection
 
 ## Category Hierarchy for Logo4500
 The figure shows the category hierarchy of Logo4500, which belongs to 37 different superclasses in the Nice classification system.
-![example](statistic.png)
+![example](suntopu.pdf)
 
 ## Logo4500 Dataset Detailed Statistics
 The figure showns the detailed statistics of Logo4500 about Image and object distribution in per category, and the number of objects in per image and object size in per image.
