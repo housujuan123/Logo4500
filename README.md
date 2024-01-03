@@ -19,6 +19,10 @@ In this work, we introduced logo4500, the largest fully annotated logo-detection
 | Others | 147 | 6,033 | 6,598 | 3.29% | Not included in Nice classification(e.g., Music,Anime) |
 | Medicine&Hygiene& | 115 | 12,901 | 22,310 | 2.59% | Medicine, Nutrient, Tissue, Disinfectant |
 
+## Category Hierarchy for Logo4500
+The figure shows the category hierarchy of Logo4500, which belongs to 37 different superclasses in the Nice classification system.
+![example](statistic.png)
+
 ## Logo4500 Dataset Detailed Statistics
 The figure showns the detailed statistics of Logo4500 about Image and object distribution in per category, and the number of objects in per image and object size in per image.
 ![example](statistic.png)
