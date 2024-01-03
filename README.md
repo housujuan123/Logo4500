@@ -21,13 +21,13 @@ In this work, we introduced logo4500, the largest fully annotated logo-detection
 
 ## Logo4500 Dataset Detailed Statistics
 The figure showns the detailed statistics of Logo4500 about Image and object distribution in per category, and the number of objects in per image and object size in per image.
-![example](Logo-4500/statistic.png)
+![example](statistic.png)
 
 The sorted distribution of images for each logo in Logo4500 is shown the figure. We can see that imbalanced distribution across different logo categories are one characteristic of Logo4500, posing a challenge for effective logo detection with few samples.
-![example](Logo-4500/statistic_histogram.png)
+![example](statistic_histogram.png)
 
 In addition, we performed a quantitative comparative analysis of these two datasets, Logo4500 and LogoDet-3K.
-![example](Logo-4500/comparison.png)
+![example](comparison.png)
 
 ## Download Dataset
 This dataset can be obtained by sending a request email to us. Specifically, the researchers interested in it should download and fill up this Agreement Form and send it back to us (327484632@qq.com; Email title: Logo4500 dataset request). We will then send you the download instructions.
