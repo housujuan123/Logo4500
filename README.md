@@ -1,4 +1,4 @@
-# <p align='center'>Logo4500: Large-scale Dataset and a Benchmark for Advancing Logo Detection </p>
+# <p align='center'>Logo4500: Large-scale Dataset and a Benchmark for Logo Detection </p>
 
 ## Logo4500-Dataset
 ![example](example.png)
