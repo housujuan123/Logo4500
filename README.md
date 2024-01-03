@@ -41,4 +41,4 @@ The visual comparison of WAANet with other models is shown in the figure.
 This dataset can be obtained by sending a request email to us. Specifically, the researchers interested in it should download and fill up this [Agreement Form](https://github.com/housujuan123/Logo4500/blob/main/Agreement%20and%20Disclaimer.pdf) and send it back to us (327484632@qq.com; Email title: Logo4500 dataset request). We will then send you the download instructions.
 
 ## Code & Trained Models
-You can download codes and trained models from here.
+You can download codes and trained models from [here](https://github.com/housujuan123/WAANet).
