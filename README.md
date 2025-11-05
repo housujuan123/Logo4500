@@ -38,7 +38,7 @@ The visual comparison of WAANet with other models is shown in the figure.
 ![example](Visualization_Comparison.png)
 
 ## Download Dataset
-This dataset can be obtained from [here](https://pan.baidu.com/s/17ILPpHo33-LypDwJNCYRuw?pwd=z6n9),and it includes two versions: VOC and COCO format.
+This dataset can be obtained from [here](https://pan.baidu.com/s/17ILPpHo33-LypDwJNCYRuw?pwd=z6n9), and it includes two versions: VOC and COCO format.
 
 ## Code & Trained Models
 You can download codes from [here](https://pan.baidu.com/s/1_i17ELNbJi1ef1N8c1oXlA?pwd=cbns).
