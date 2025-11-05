@@ -1,4 +1,4 @@
-# <p align='center'>Logo4500: Large-scale Dataset and a Benchmark for Logo Detection </p>
+# <p align='center'> Large-scale Logo Detection </p>
 
 ## Logo4500
 ![example](example.png)
